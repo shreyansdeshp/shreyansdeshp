@@ -149,7 +149,11 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shreyansdeshp&icon=6&color=10" />
+  <img src="assets/aston-martin-banner.svg" width="100%" alt="Aston Martin racing banner"/>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=shreyansdeshp&icon=0&color=0" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00352F,50:00453C,100:CEDC00&height=100&section=footer" />
