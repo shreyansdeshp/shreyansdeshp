@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:1a1a1a,100:FFC107&height=200&section=header&text=Shreyans%20Deshpande&fontSize=55&fontColor=FFC107&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:1a1a1a,100:FF1A1A&height=200&section=header&text=Shreyans%20Deshpande&fontSize=55&fontColor=FF1A1A&animation=fadeIn&fontAlignY=40" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3000&pause=1000&color=FFC107&center=true&vCenter=true&width=700&height=60&lines=Gotham's+not+real...+but+the+bugs+are;Computer+Vision+%7C+Geospatial+ML+%7C+Deep+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3000&pause=1000&color=FF1A1A&center=true&vCenter=true&width=700&height=60&lines=Gotham's+not+real...+but+the+bugs+are;Computer+Vision+%7C+Geospatial+ML+%7C+Deep+Learning" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/shreyansdeshpande"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFC107" /></a>
-<a href="mailto:shreyansdeshpandeind@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFC107" /></a>
+<a href="https://www.linkedin.com/in/shreyansdeshpande"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1A1A" /></a>
+<a href="mailto:shreyansdeshpandeind@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1A1A" /></a>
 
 </div>
 
@@ -69,45 +69,45 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
 ### 🦇 THE ARSENAL — Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFC107)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=FFC107)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FFC107)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=FFC107)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=FFC107)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=FFC107)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FF1A1A)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=FF1A1A)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FF1A1A)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=FF1A1A)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=FF1A1A)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=FF1A1A)
 
 **ML / DL**
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=FFC107)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=FFC107)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=FFC107)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=FFC107)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=FF1A1A)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=FF1A1A)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=FF1A1A)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=FF1A1A)
 
 **Geospatial**
-![QGIS](https://img.shields.io/badge/QGIS-000000?style=flat-square&logo=qgis&logoColor=FFC107)
-![GDAL](https://img.shields.io/badge/GDAL-000000?style=flat-square&logoColor=FFC107)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-000000?style=flat-square&logo=googleearth&logoColor=FFC107)
+![QGIS](https://img.shields.io/badge/QGIS-000000?style=flat-square&logo=qgis&logoColor=FF1A1A)
+![GDAL](https://img.shields.io/badge/GDAL-000000?style=flat-square&logoColor=FF1A1A)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-000000?style=flat-square&logo=googleearth&logoColor=FF1A1A)
 
 **Tools**
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFC107)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=FFC107)
-![Colab](https://img.shields.io/badge/Google%20Colab-000000?style=flat-square&logo=googlecolab&logoColor=FFC107)
-![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=FFC107)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FF1A1A)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=FF1A1A)
+![Colab](https://img.shields.io/badge/Google%20Colab-000000?style=flat-square&logo=googlecolab&logoColor=FF1A1A)
+![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=FF1A1A)
 
 ---
 
 ### 🦇 THE BATCOMPUTER — GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyansdeshp&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=FFC107&icon_color=FFC107&text_color=C9C9C9&ring_color=FFC107" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansdeshp&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFC107&text_color=C9C9C9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyansdeshp&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=FF1A1A&icon_color=FF1A1A&text_color=C9C9C9&ring_color=FF1A1A" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansdeshp&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF1A1A&text_color=C9C9C9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansdeshp&hide_border=true&background=0D0D0D&ring=FFC107&fire=FFC107&currStreakLabel=FFC107&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansdeshp&hide_border=true&background=0D0D0D&ring=FF1A1A&fire=FF1A1A&currStreakLabel=FF1A1A&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
 </p>
 
 <p align="center">
-  <img src="https://github-activity-chart.vercel.app/graph?username=shreyansdeshp&bg_color=0D0D0D&color=FFC107&line=FFC107&point=FFFFFF&area=true&hide_border=true&custom_title=🦇%20Nightly%20Patrol%20—%2060-Day%20Activity&days=60" alt="Activity Graph"/>
+  <img src="https://github-activity-chart.vercel.app/graph?username=shreyansdeshp&bg_color=0D0D0D&color=FF1A1A&line=FF1A1A&point=FFFFFF&area=true&hide_border=true&custom_title=🦇%20Nightly%20Patrol%20—%2060-Day%20Activity&days=60" alt="Activity Graph"/>
 </p>
 
 ---
@@ -122,4 +122,4 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
   <img src="https://visitcount.itsvg.in/api?id=shreyansdeshp&icon=6&color=10" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:1a1a1a,100:FFC107&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:1a1a1a,100:FF1A1A&height=100&section=footer" />
