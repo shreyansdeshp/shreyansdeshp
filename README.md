@@ -166,4 +166,4 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&duration=4000&pause=2000&color=CEDC00&center=true&vCenter=true&width=800&height=40&italic=true&lines=%22It's+not+where+you+start...+it's+where+you+end.%22" alt="Quote" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00352F,50:00453C,100:CEDC00&height=100&section=footer" />
+<img src="assets/finish-line-footer.svg" width="100%" alt="Finish line"/>
