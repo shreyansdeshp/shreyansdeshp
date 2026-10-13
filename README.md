@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-banner-v4.svg" width="100%" alt="Shreyans Deshpande"/>
+<img src="assets/header-banner-v5.svg" width="100%" alt="Shreyans Deshpande"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=CEDC00&center=true&vCenter=true&width=900&height=50&lines=Computer+Vision+%7C+Machine+Learning+%7C+Data+Structures" alt="Typing SVG" />
 
@@ -160,7 +160,7 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=34&duration=4000&pause=2000&color=CEDC00&center=true&vCenter=true&width=1000&height=80&italic=true&lines=%22It's+not+where+you+start...+it's+where+you+end.%22" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=34&duration=4000&pause=2000&color=CEDC00&center=true&vCenter=true&width=1000&height=80&italic=true&lines=%22It's+not+where+you+start...+it's+where+you+finish.%22" alt="Quote" />
 </p>
 
 <img src="assets/finish-line-footer.svg" width="100%" alt="Finish line"/>
