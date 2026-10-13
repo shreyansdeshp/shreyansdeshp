@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:1a1a1a,100:FF1A1A&height=200&section=header&text=Shreyans%20Deshpande&fontSize=55&fontColor=FF1A1A&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00352F,50:00453C,100:CEDC00&height=200&section=header&text=Shreyans%20Deshpande&fontSize=55&fontColor=CEDC00&animation=fadeIn&fontAlignY=40" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=FF1A1A&center=true&vCenter=true&width=900&height=50&lines=Computer+Vision+%7C+Machine+Learning+%7C+Data+Structures" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=CEDC00&center=true&vCenter=true&width=900&height=50&lines=Computer+Vision+%7C+Machine+Learning+%7C+Data+Structures" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&duration=4000&pause=2000&color=C9C9C9&center=true&vCenter=true&width=800&height=40&italic=true&lines=%22It's+not+where+you+start...+it's+where+you+end.%22" alt="Quote" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/shreyansdeshpande"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1A1A" /></a>
-<a href="mailto:shreyansdeshpandeind@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1A1A" /></a>
+<a href="https://www.linkedin.com/in/shreyansdeshpande"><img src="https://img.shields.io/badge/LinkedIn-00352F?style=for-the-badge&logo=linkedin&logoColor=CEDC00" /></a>
+<a href="mailto:shreyansdeshpandeind@gmail.com"><img src="https://img.shields.io/badge/Email-00352F?style=for-the-badge&logo=gmail&logoColor=CEDC00" /></a>
 
 </div>
 
 ---
 
-### 🦇 THE FILE
+### 🏁 THE DRIVER
 
 - 🎓 B.Tech in Information Technology, VJTI Mumbai (2025–Present)
 - 🛰️ I build ML pipelines that fuse satellite/LiDAR imagery with deep learning for real-world geospatial problems
@@ -26,7 +26,7 @@
 
 ---
 
-### 🦇 THE UTILITY BELT — Featured Projects
+### 🏎️ THE GARAGE — Featured Projects
 
 <table>
 <tr>
@@ -58,7 +58,7 @@ ML module for an autonomous multi-drone system that searches a 10-hectare flood 
 </td>
 <td width="50%" valign="top">
 
-**🦇 More in the Batcave →**
+**🏎️ More in the Garage →**
 
 Exploring full-stack development alongside ML/geospatial work. Check my pinned repos for the latest.
 
@@ -68,7 +68,7 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
 
 ---
 
-### 🦇 THE ARSENAL — Tech Stack
+### 🔧 THE PIT CREW — Tech Stack
 
 <table align="center">
   <tr>
@@ -105,13 +105,13 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
       <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /></a><br>Pandas
     </td>
     <td align="center" width="96">
-      <a href="https://qgis.org/"><img src="https://cdn.simpleicons.org/qgis/FF1A1A" width="48" height="48" alt="QGIS" /></a><br>QGIS
+      <a href="https://qgis.org/"><img src="https://cdn.simpleicons.org/qgis/CEDC00" width="48" height="48" alt="QGIS" /></a><br>QGIS
     </td>
     <td align="center" width="96">
-      <a href="https://gdal.org/"><img src="https://cdn.simpleicons.org/gdal/FF1A1A" width="48" height="48" alt="GDAL" /></a><br>GDAL
+      <a href="https://gdal.org/"><img src="https://cdn.simpleicons.org/gdal/CEDC00" width="48" height="48" alt="GDAL" /></a><br>GDAL
     </td>
     <td align="center" width="96">
-      <a href="https://earthengine.google.com/"><img src="https://cdn.simpleicons.org/googleearth/FF1A1A" width="48" height="48" alt="Google Earth Engine" /></a><br>GEE
+      <a href="https://earthengine.google.com/"><img src="https://cdn.simpleicons.org/googleearth/CEDC00" width="48" height="48" alt="Google Earth Engine" /></a><br>GEE
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a><br>Git
@@ -120,26 +120,26 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
       <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a><br>VS Code
     </td>
     <td align="center" width="96">
-      <a href="https://www.kaggle.com/"><img src="https://cdn.simpleicons.org/kaggle/FF1A1A" width="48" height="48" alt="Kaggle" /></a><br>Kaggle
+      <a href="https://www.kaggle.com/"><img src="https://cdn.simpleicons.org/kaggle/CEDC00" width="48" height="48" alt="Kaggle" /></a><br>Kaggle
     </td>
   </tr>
 </table>
 
 ---
 
-### 🦇 THE BATCOMPUTER — GitHub Stats
+### 🏁 THE TELEMETRY — GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyansdeshp&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=FF1A1A&icon_color=FF1A1A&text_color=C9C9C9&ring_color=FF1A1A" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansdeshp&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF1A1A&text_color=C9C9C9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyansdeshp&show_icons=true&hide_border=true&count_private=true&bg_color=00352F&title_color=CEDC00&icon_color=CEDC00&text_color=C9C9C9&ring_color=CEDC00" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansdeshp&layout=compact&hide_border=true&bg_color=00352F&title_color=CEDC00&text_color=C9C9C9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansdeshp&hide_border=true&background=0D0D0D&ring=FF1A1A&fire=FF1A1A&currStreakLabel=FF1A1A&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansdeshp&hide_border=true&background=00352F&ring=CEDC00&fire=CEDC00&currStreakLabel=CEDC00&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
 </p>
 
 <p align="center">
-  <img src="https://github-activity-chart.vercel.app/graph?username=shreyansdeshp&bg_color=0D0D0D&color=FF1A1A&line=FF1A1A&point=FFFFFF&area=true&hide_border=true&custom_title=🦇%20Nightly%20Patrol%20—%2060-Day%20Activity&days=60" alt="Activity Graph"/>
+  <img src="https://github-activity-chart.vercel.app/graph?username=shreyansdeshp&bg_color=00352F&color=CEDC00&line=CEDC00&point=FFFFFF&area=true&hide_border=true&custom_title=🏁%20Race%20Week%20—%2060-Day%20Activity&days=60" alt="Activity Graph"/>
 </p>
 
 ---
@@ -152,4 +152,4 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
   <img src="https://visitcount.itsvg.in/api?id=shreyansdeshp&icon=6&color=10" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:1a1a1a,100:FF1A1A&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00352F,50:00453C,100:CEDC00&height=100&section=footer" />
