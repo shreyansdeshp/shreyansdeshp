@@ -1,47 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
-  <defs>
-    <linearGradient id="metal" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#E8E8E8"/>
-      <stop offset="20%" stop-color="#B8B8B8"/>
-      <stop offset="45%" stop-color="#6E6E6E"/>
-      <stop offset="55%" stop-color="#4A4A4A"/>
-      <stop offset="75%" stop-color="#9C9C9C"/>
-      <stop offset="100%" stop-color="#F5F5F5"/>
-    </linearGradient>
-    <linearGradient id="metalDark" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#3A3A3A"/>
-      <stop offset="50%" stop-color="#1A1A1A"/>
-      <stop offset="100%" stop-color="#4A4A4A"/>
-    </linearGradient>
-    <radialGradient id="bgGlow" cx="50%" cy="50%" r="60%">
-      <stop offset="0%" stop-color="#00453C"/>
-      <stop offset="100%" stop-color="#00120F"/>
-    </radialGradient>
-  </defs>
-
-  <rect width="320" height="320" fill="url(#bgGlow)"/>
-
-  <g transform="translate(160,160)">
-    <animateTransform attributeName="transform" type="rotate" from="0 160 160" to="360 160 160"
-                       additive="sum" dur="5s" repeatCount="indefinite"/>
-
-    <!-- wings -->
-    <path d="M-150,0 C-120,-28 -70,-18 -34,-4 L-6,8 L-34,16 C-70,26 -120,22 -150,6 Z"
-          fill="url(#metal)" stroke="#CEDC00" stroke-width="1.5"/>
-    <path d="M150,0 C120,-28 70,-18 34,-4 L6,8 L34,16 C70,26 120,22 150,6 Z"
-          fill="url(#metal)" stroke="#CEDC00" stroke-width="1.5"/>
-    <path d="M-150,0 C-120,-14 -70,-10 -34,-2 L-6,4 L-34,9 C-70,14 -120,12 -150,3 Z"
-          fill="url(#metalDark)" opacity="0.6"/>
-    <path d="M150,0 C120,-14 70,-10 34,-2 L6,4 L34,9 C70,14 120,12 150,3 Z"
-          fill="url(#metalDark)" opacity="0.6"/>
-
-    <!-- center medallion -->
-    <circle r="42" fill="url(#metal)" stroke="#CEDC00" stroke-width="3"/>
-    <circle r="34" fill="url(#metalDark)"/>
-    <text x="0" y="13" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="900"
-          fill="#CEDC00" text-anchor="middle">AM</text>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="234" viewBox="0 0 500 234">
+  <g transform="translate(250,117)">
+    <g>
+      <animateTransform attributeName="transform" type="scale"
+                         values="1 1;0.03 1;1 1" keyTimes="0;0.5;1"
+                         calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"
+                         dur="6s" repeatCount="indefinite"/>
+      <image xlink:href="aston-martin-logo.png" href="aston-martin-logo.png"
+             x="-250" y="-117" width="500" height="234" preserveAspectRatio="xMidYMid meet"/>
+    </g>
   </g>
-
-  <text x="160" y="300" font-family="Georgia, serif" font-size="20" font-weight="700" letter-spacing="8"
-        fill="#CEDC00" text-anchor="middle">ASTON MARTIN</text>
 </svg>
