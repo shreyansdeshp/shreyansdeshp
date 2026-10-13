@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=36&duration=3000&pause=1000&color=FFC107&center=true&vCenter=true&width=700&height=70&lines=I'm+Shreyans+Deshpande;Gotham's+not+real...+but+the+bugs+are" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:1a1a1a,100:FFC107&height=200&section=header&text=Shreyans%20Deshpande&fontSize=55&fontColor=FFC107&animation=fadeIn&fontAlignY=40" />
 
-<em>🦇 Computer Vision · Geospatial ML · Deep Learning · learning full-stack in the shadows 🦇</em>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3000&pause=1000&color=FFC107&center=true&vCenter=true&width=700&height=60&lines=Gotham's+not+real...+but+the+bugs+are;Computer+Vision+%7C+Geospatial+ML+%7C+Deep+Learning" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -106,6 +106,10 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansdeshp&hide_border=true&background=0D0D0D&ring=FFC107&fire=FFC107&currStreakLabel=FFC107&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
 </p>
 
+<p align="center">
+  <img src="https://github-activity-chart.vercel.app/graph?username=shreyansdeshp&bg_color=0D0D0D&color=FFC107&line=FFC107&point=FFFFFF&area=true&hide_border=true&custom_title=🦇%20Nightly%20Patrol%20—%2060-Day%20Activity&days=60" alt="Activity Graph"/>
+</p>
+
 ---
 
 <p align="center">
@@ -113,3 +117,9 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
   <br/>
   <strong>"It's not who I am underneath, but what I deploy that defines me."</strong>
 </p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=shreyansdeshp&icon=6&color=10" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:1a1a1a,100:FFC107&height=100&section=footer" />
