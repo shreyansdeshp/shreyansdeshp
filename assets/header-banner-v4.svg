@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
   <defs>
     <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
       <stop offset="0%" stop-color="#001410"/>
@@ -7,15 +7,13 @@
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="220" fill="#06110D"/>
-  <polygon points="0,220 1200,220 1200,0" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="#06110D"/>
+  <polygon points="0,320 1200,320 1200,0" fill="url(#bg)"/>
 
   <!-- A380 top-view silhouette -->
-  <g transform="translate(600,112)" opacity="0.28" fill="#06110D">
-    <!-- fuselage -->
-    <path d="M-16,-98 C-6,-100 6,-100 16,-98 L19,70 C19,92 10,100 0,102 C-10,100 -19,92 -19,70 Z"/>
-    <!-- nose cone -->
-    <path d="M-16,-98 C-8,-108 8,-108 16,-98 L14,-80 L-14,-80 Z"/>
+  <g transform="translate(600,180)" opacity="0.28" fill="#06110D">
+    <!-- fuselage with elongated nose -->
+    <path d="M0,-170 C-14,-155 -19,-128 -19,-100 L-19,70 C-19,92 -10,100 0,102 C10,100 19,92 19,70 L19,-100 C19,-128 14,-155 0,-170 Z"/>
     <!-- main wings, swept -->
     <path d="M-19,10 L-330,98 C-345,103 -345,112 -330,110 L-20,48 Z"/>
     <path d="M19,10 L330,98 C345,103 345,112 330,110 L20,48 Z"/>
@@ -34,6 +32,6 @@
     <ellipse cx="210" cy="78" rx="7" ry="22"/>
   </g>
 
-  <text x="600" y="128" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800"
+  <text x="600" y="196" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800"
         fill="#CEDC00" text-anchor="middle">Shreyans Deshpande</text>
 </svg>
