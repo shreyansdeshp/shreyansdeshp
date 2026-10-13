@@ -159,7 +159,7 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
 </p>
 
 <p align="center">
-  <img src="assets/aston-martin-f1.png" width="80%" alt="Aston Martin F1 car"/>
+  <img src="assets/aston-martin-spin.svg" width="280" alt="Spinning Aston Martin emblem"/>
 </p>
 
 <p align="center">
