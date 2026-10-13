@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00352F,50:00453C,100:CEDC00&height=200&section=header&text=Shreyans%20Deshpande&fontSize=55&fontColor=CEDC00&animation=fadeIn&fontAlignY=40" />
+<img src="assets/header-banner.svg" width="100%" alt="Shreyans Deshpande"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=CEDC00&center=true&vCenter=true&width=900&height=50&lines=Computer+Vision+%7C+Machine+Learning+%7C+Data+Structures" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/shreyans-deshpande-629567388"><img src="https://img.shields.io/badge/LinkedIn-00352F?style=for-the-badge&logo=linkedin&logoColor=CEDC00" /></a>
+<a href="https://www.linkedin.com/in/shreyans-deshpande-629567388"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=00352F&style=for-the-badge&logo=linkedin&logoColor=CEDC00" /></a>
 <a href="https://discord.com/users/1456628215794634965"><img src="https://img.shields.io/badge/Discord-00352F?style=for-the-badge&logo=discord&logoColor=CEDC00" /></a>
 <a href="mailto:shreyansdeshpandeind@gmail.com"><img src="https://img.shields.io/badge/Email-00352F?style=for-the-badge&logo=gmail&logoColor=CEDC00" /></a>
 
