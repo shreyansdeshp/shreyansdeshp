@@ -46,7 +46,7 @@ Automated dam-break flood pipeline coupling SPH breach simulation with Delft3D F
 <tr>
 <td width="50%" valign="top">
 
-**[RescueSwarm — Multi-Drone Survivor Detection](https://github.com/shreyansdeshp/NIDAR071)**
+**[RescueSwarm — Multi-Drone Survivor Detection](https://github.com/shreyansdeshp/JASNIDAR)**
 `PyTorch` `YOLOv11`
 
 ML module for an autonomous multi-drone system that searches a 10-hectare flood zone, geotags survivors, and delivers aid kits without network connectivity. Fine-tuning YOLOv11 for aerial person detection across SARD, HERIDAL and VisDrone.
