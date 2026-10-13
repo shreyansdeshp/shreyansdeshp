@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:1a1a1a,100:FF1A1A&height=200&section=header&text=Shreyans%20Deshpande&fontSize=55&fontColor=FF1A1A&animation=fadeIn&fontAlignY=40" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=FF1A1A&center=true&vCenter=true&width=900&height=50&lines=Computer+Vision+%7C+Geospatial+ML+%7C+Deep+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=FF1A1A&center=true&vCenter=true&width=900&height=50&lines=Computer+Vision+%7C+Machine+Learning+%7C+Data+Structures" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&duration=4000&pause=2000&color=C9C9C9&center=true&vCenter=true&width=800&height=40&italic=true&lines=%22It's+not+where+you+start...+it's+where+you+end.%22" alt="Quote" />
 
 <br/><br/>
 
@@ -20,7 +22,7 @@
 - 🚁 Currently working on the ML module for **Team Airavat**'s autonomous multi-drone system, built for **NIDAR**
 - 🏆 Cleared the internal round of **Smart India Hackathon 2026**, ranking 5th/50
 - ⚡ Core member at Community of Coders (CoC) and ProjectX, VJTI
-- 🌍 Hobbies: football, maps & geography, aviation
+- 🌍 Hobbies: maps & geography, aviation
 
 ---
 
@@ -68,30 +70,60 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
 
 ### 🦇 THE ARSENAL — Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FF1A1A)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=FF1A1A)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=FF1A1A)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=FF1A1A)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=FF1A1A)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=FF1A1A)
-
-**ML / DL**
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=FF1A1A)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=FF1A1A)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=FF1A1A)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=FF1A1A)
-
-**Geospatial**
-![QGIS](https://img.shields.io/badge/QGIS-000000?style=flat-square&logo=qgis&logoColor=FF1A1A)
-![GDAL](https://img.shields.io/badge/GDAL-000000?style=flat-square&logoColor=FF1A1A)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-000000?style=flat-square&logo=googleearth&logoColor=FF1A1A)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FF1A1A)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=FF1A1A)
-![Colab](https://img.shields.io/badge/Google%20Colab-000000?style=flat-square&logo=googlecolab&logoColor=FF1A1A)
-![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=flat-square&logo=kaggle&logoColor=FF1A1A)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /></a><br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a><br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a><br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /></a><br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /></a><br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /></a><br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" /></a><br>scikit-learn
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /></a><br>NumPy
+    </td>
+    <td align="center" width="96">
+      <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /></a><br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="https://qgis.org/"><img src="https://cdn.simpleicons.org/qgis/FF1A1A" width="48" height="48" alt="QGIS" /></a><br>QGIS
+    </td>
+    <td align="center" width="96">
+      <a href="https://gdal.org/"><img src="https://cdn.simpleicons.org/gdal/FF1A1A" width="48" height="48" alt="GDAL" /></a><br>GDAL
+    </td>
+    <td align="center" width="96">
+      <a href="https://earthengine.google.com/"><img src="https://cdn.simpleicons.org/googleearth/FF1A1A" width="48" height="48" alt="Google Earth Engine" /></a><br>GEE
+    </td>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a><br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a><br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.kaggle.com/"><img src="https://cdn.simpleicons.org/kaggle/FF1A1A" width="48" height="48" alt="Kaggle" /></a><br>Kaggle
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -113,9 +145,7 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
 ---
 
 <p align="center">
-  <em>⚽ Runner-up, Enthusia 2026 (VJTI Sports Fest)  ·  🗺️ Maps & geography enthusiast  ·  ✈️ Aviation nerd</em>
-  <br/>
-  <strong>"It's not who I am underneath, but what I deploy that defines me."</strong>
+  <em>🗺️ Maps & geography enthusiast  ·  ✈️ Aviation nerd</em>
 </p>
 
 <p align="center">
