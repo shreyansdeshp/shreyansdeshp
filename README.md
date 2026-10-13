@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/header-banner.svg" width="100%" alt="Shreyans Deshpande"/>
+<img src="assets/header-banner-v2.svg" width="100%" alt="Shreyans Deshpande"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=CEDC00&center=true&vCenter=true&width=900&height=50&lines=Computer+Vision+%7C+Machine+Learning+%7C+Data+Structures" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/shreyans-deshpande-629567388"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=00352F&style=for-the-badge&logo=linkedin&logoColor=CEDC00" /></a>
+<a href="https://www.linkedin.com/in/shreyans-deshpande-629567388"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=00352F&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0NFREMwMCI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" /></a>
 <a href="https://discord.com/users/1456628215794634965"><img src="https://img.shields.io/badge/Discord-00352F?style=for-the-badge&logo=discord&logoColor=CEDC00" /></a>
 <a href="mailto:shreyansdeshpandeind@gmail.com"><img src="https://img.shields.io/badge/Email-00352F?style=for-the-badge&logo=gmail&logoColor=CEDC00" /></a>
 
