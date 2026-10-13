@@ -155,7 +155,7 @@ Exploring full-stack development alongside ML/geospatial work. Check my pinned r
 ---
 
 <p align="center">
-  <em>🗺️ Maps & geography enthusiast  ·  ✈️ Aviation nerd</em>
+  <em>🗺️ Maps & geography enthusiast  ·  ✈️ Aviation nerd  ·  🏎️ Aston Martin fan</em>
 </p>
 
 <p align="center">
