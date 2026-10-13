@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:1a1a1a,100:FF1A1A&height=200&section=header&text=Shreyans%20Deshpande&fontSize=55&fontColor=FF1A1A&animation=fadeIn&fontAlignY=40" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3000&pause=1000&color=FF1A1A&center=true&vCenter=true&width=700&height=60&lines=Gotham's+not+real...+but+the+bugs+are;Computer+Vision+%7C+Geospatial+ML+%7C+Deep+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=FF1A1A&center=true&vCenter=true&width=900&height=50&lines=Computer+Vision+%7C+Geospatial+ML+%7C+Deep+Learning" alt="Typing SVG" />
 
 <br/><br/>
 
