@@ -57,9 +57,10 @@ ML module for an autonomous multi-drone system that searches a 10-hectare flood 
 </td>
 <td width="50%" valign="top">
 
-**🏎️ More in the Garage →**
+**[✈️ PRATIRAKSHAK — Fleet Readiness Console](https://github.com/shreyansdeshp/PRATIRAKSHAK)**
+`Python` `LightGBM` `Conformal Prediction` `NASA C-MAPSS`
 
-Exploring full-stack development alongside ML/geospatial work. Check my pinned repos for the latest.
+Predictive-maintenance and fleet-availability console for Smart India Hackathon 2026 (SIH26249). Fuses real turbofan degradation data with a simulated 72-aircraft, 4-base fleet to predict remaining useful life with calibrated confidence, then turns it into one transparent decision rule: service now, schedule, pull from the line, or source a spare. Includes hangar scheduling, stress scenarios and an offline mode.
 
 </td>
 </tr>
